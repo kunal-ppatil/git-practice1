@@ -1,1 +1,1 @@
-a=int(input("ENTER"))
+a=int(input("ENTER YOUR NAME raj : "))
