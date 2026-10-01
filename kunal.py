@@ -1,1 +1,1 @@
-a=int(input("Enter your age: "))
+a=int(input("Enter your age above 21: "))
